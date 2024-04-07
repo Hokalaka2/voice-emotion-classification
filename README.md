@@ -4,7 +4,7 @@
 ## Abstract
 
 ## Motivation and Question
-Our aim for this project is to convert the audio files in our data into vectorized information that we can use to classify the emotional tone used by the actor. We have a large data set which we will use to create predictive and exploratory models that will help us generate specific hypotheses regarding what elements of the audio indicate certain emotions. The target variable and other information about the file are included in the names of the audio files so we will also need to extract that information as we make our data usable. We then hope to use the tools and algorithms we have learned in class to build a model that will be able to classify emotion with a fair amount of accuracy. Speech emotion recognition falls under the category of affective computing which aims to investigate interactions between humans and computer and inform the optimization of these exchanges.[^1] It is important to be able to classify emotion because ...
+Our aim for this project is to convert the audio files in our data into vectorized information that we can use to classify the emotional tone used by the actor. We have a large data set which we will use to create predictive and exploratory models that will help us generate specific hypotheses regarding what elements of the audio indicate certain emotions. The target variable and other information about the file are included in the names of the audio files so we will also need to extract that information as we make our data usable. We then hope to use the tools and algorithms we have learned in class to build a model that will be able to classify emotion with a fair amount of accuracy. Speech emotion recognition falls under the category of affective computing which aims to investigate interactions between humans and computer and inform the optimization of these exchanges.([^1]) It is important to be able to classify emotion because ...
 
 ## Planned Deliverables
 Our planned deliverables will include a Python package that contains all of the code we use to prepare our data, analyze the audio files, and build the model. We will also include a Jupyter notebook that illustrates the use of this package.
@@ -32,4 +32,4 @@ Week 3:
 Week 6:
 
 ## Works Cited
-[^1] Cambria, E., Das, D., Bandyopadhyay, S., Feraco, A. (2017). Affective Computing and Sentiment Analysis. In: Cambria, E., Das, D., Bandyopadhyay, S., Feraco, A. (eds) A Practical Guide to Sentiment Analysis. Socio-Affective Computing, vol 5. Springer, Cham. https://doi.org/10.1007/978-3-319-55394-8_1
+([^1]) Cambria, E., Das, D., Bandyopadhyay, S., Feraco, A. (2017). Affective Computing and Sentiment Analysis. In: Cambria, E., Das, D., Bandyopadhyay, S., Feraco, A. (eds) A Practical Guide to Sentiment Analysis. Socio-Affective Computing, vol 5. Springer, Cham. https://doi.org/10.1007/978-3-319-55394-8_1
