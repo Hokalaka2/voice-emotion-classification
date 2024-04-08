@@ -20,16 +20,16 @@ While the data set is much larger and contains video and song files, we will onl
 ## Learning Goals
 Otis:
 
-Catie:
+Catie: My goal for this project is to learn more about working with audio data. While I have done some light data cleaning before, I do not have a lot of experience really having to manipulate the data I select to make it usable - which is a lot closer to anything I would be doing in the real world. I hope to also do a deeper dive into the machine learning models we have discussed in class and learn about the best way to select an optimal algorithm for our research. I want to improve my collaboration skills and work with Otis to ensure that we are communicating in a clear and efficient manner.  
 
 ## Risk Statement
 
 ## Ethics Statement
 
 ## Timeline
-Week 3:
+Week 3: After 3 weeks we hope to have been able to vectorize our audio files and have usable data. Ideally, we would like to have explored the data and generated our hypotheses. 
 
-Week 6:
+Week 6: After 6 weeks we hope to have implemented our machine learning models. 
 
 ## Works Cited
 [^1] Cambria, E., Das, D., Bandyopadhyay, S., Feraco, A. (2017). Affective Computing and Sentiment Analysis. In: Cambria, E., Das, D., Bandyopadhyay, S., Feraco, A. (eds) A Practical Guide to Sentiment Analysis. Socio-Affective Computing, vol 5. Springer, Cham. https://doi.org/10.1007/978-3-319-55394-8_1
