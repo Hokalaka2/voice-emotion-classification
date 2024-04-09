@@ -35,7 +35,7 @@ Through listening in on the audio files, we also noticed that how obvious differ
 ## Timeline
 Week 3: After 3 weeks we hope to have been able to vectorize our audio files and have usable data. Ideally, we would like to have explored the data and generated our hypotheses. 
 
-Week 6: After 6 weeks we hope to have implemented our machine learning models. 
+Week 6: After 6 weeks we hope to have implemented our machine learning model and tested our model on a custom testing data set that we've created. We also hope to have some analysis on how a variety of accents impact that accuracy. 
 
 ## Works Cited
 [^1] Cambria, E., Das, D., Bandyopadhyay, S., Feraco, A. (2017). Affective Computing and Sentiment Analysis. In: Cambria, E., Das, D., Bandyopadhyay, S., Feraco, A. (eds) A Practical Guide to Sentiment Analysis. Socio-Affective Computing, vol 5. Springer, Cham. https://doi.org/10.1007/978-3-319-55394-8_1
